@@ -1,2 +1,3 @@
 My name is Rakesh
 I am learning git
+Git and GitHub are connected
