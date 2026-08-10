@@ -3,3 +3,4 @@ I am learning git
 Git and GitHub are connected
 I am learning devops
 I am practicing devops everry day
+I am understanding git topic
